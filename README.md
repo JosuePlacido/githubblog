@@ -27,39 +27,36 @@ The layout on [FIGMA](https://www.figma.com/community/file/1138814951106121051).
 
 ### Requirements
 
--   [![git-badge]](https://git-scm.com)
--   [![nodejs-badge]](https://nodejs.org/en)
--   [![yarn-badge]](https://yarnpkg.com/) or [![npm]](https://www.npmjs.com/)
+- [![git-badge]](https://git-scm.com)
+- [![nodejs-badge]](https://nodejs.org/en)
+- [![yarn-badge]](https://yarnpkg.com/) or [![npm]](https://www.npmjs.com/)
 
 ### Languages, frameworks and libs
 
--   [![React]](https://reactjs.org/)
--   [![typescript]](https://www.typescriptlang.org/)
--   [![vite]](https://vitejs.dev/)
--   [![styled-components]](https://styled-components.com/)
--   [![react-router]](https://reactrouter.com/en/main)
--   [![axios]](https://axios-http.com/)
--   [![zod]](https://zod.dev/)
--   [React-hook-form](https://react-hook-form.com/)
--   [use-context-selector](https://github.com/dai-shi/use-context-selector#readme)
--   [date-fns](https://date-fns.org/)
--   [react-markdown](https://remarkjs.github.io/react-markdown/)
+- [![React]](https://reactjs.org/)
+- [![typescript]](https://www.typescriptlang.org/)
+- [![vite]](https://vitejs.dev/)
+- [![styled-components]](https://styled-components.com/)
+- [![react-router]](https://reactrouter.com/en/main)
+- [![axios]](https://axios-http.com/)
+- [![zod]](https://zod.dev/)
+- [React-hook-form](https://react-hook-form.com/)
+- [use-context-selector](https://github.com/dai-shi/use-context-selector#readme)
+- [date-fns](https://date-fns.org/)
+- [react-markdown](https://remarkjs.github.io/react-markdown/)
 
 ### Concepts studed or applied
 
--   creating a custom hooks
--   formatters tag time
--   request on api
--   hooks performance useCallback and memo
--   context selector
--   convert markdown to html
+- creating a custom hooks
+- formatters tag time
+- request on api
+- hooks performance useCallback and memo
+- context selector
+- convert markdown to html
 
 ## 🚀 Run project
 
 ```bash
-	#aaccess the project folder
-	cd packages/github-blog
-
 	#install dependencies
 	yarn # or npm install
 
